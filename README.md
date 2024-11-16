@@ -1,4 +1,4 @@
-The presentation titled *"Autonomous Driving with Hybrid System"* outlines a project conducted by a group of students guided by Mr. Ravi Teja, affiliated with the Department of Electrical and Electronics Engineering at Koneru Lakshmaiah Education Foundation. The project integrates real-time obstacle detection and voice-controlled navigation using the Model Predictive Control (MPC) algorithm to ensure efficient and safe navigation. Here is a detailed explanation of its sections:
+The presentation titled "Autonomous Driving with Hybrid System" outlines a project conducted by a group of students guided by Mr. Ravi Teja, affiliated with the Department of Electrical and Electronics Engineering at Koneru Lakshmaiah Education Foundation. The project integrates real-time obstacle detection and voice-controlled navigation using the Model Predictive Control (MPC) algorithm to ensure efficient and safe navigation. Here is a detailed explanation of its sections:
 
 Literature Review and Objectives:
 The project seeks to balance automation with user control, enhancing both safety and ease of use in navigation systems. It utilizes ultrasonic sensors for obstacle detection and a microphone for voice commands. The MPC algorithm processes these inputs, enabling precise execution and adaptive driving. The primary objectives include:
@@ -8,10 +8,10 @@ The project seeks to balance automation with user control, enhancing both safety
 
 Components and Technologies:
 The project employs a variety of hardware:
-- *Raspberry Pi Pico:* Acts as the processing unit.
-- *L298N Motor Driver, Ultrasonic Sensors, and DC Motors:* Enable mobility and obstacle detection.
-- *Microphone and Buzzer:* Facilitate voice control and alerts.
-- *HWB Batteries:* Provide power to the system.
+- Raspberry Pi Pico: Acts as the processing unit.
+- L298N Motor Driver, Ultrasonic Sensors, and DC Motors: Enable mobility and obstacle detection.
+- Microphone and Buzzer: Facilitate voice control and alerts.
+- HWB Batteries: Provide power to the system.
 
 System Architecture and Control Mechanism:
 The system operates through a sequence of monitoring and execution:
